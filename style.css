@@ -1,0 +1,55 @@
+body, html {
+    height: 90%;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: #1F2937;
+    height: 100%;
+}
+
+.hero-main {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+}
+
+a, .hero-second {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+button, .signup {
+    background-color: #3882f6;
+    color: #f9faf8;
+}
+
+.information {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+footer {
+    color: #e5e7eb;
+    background-color: #1F2937;
+    height: 5%;
+}
+
+.dome {
+    width: 200px;
+    height: 200px;
+}
